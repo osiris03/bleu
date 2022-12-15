@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+}
+
+nav{
+    margin:auto;
+    background-color: black;
+    color:white;
+    
+}
+
+.toto1{
+    padding: 8px  16px;
+    float: left;
+    text-decoration: none;
+    width: 100%;
+}
+.toto1:hover{
+    background-color: darkgrey;
+    color: black;
+}
+
+.toto1 a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+/*.toto10{
+    position: static;
+    float: left;
+}
+.toto10 button {
+     padding: 8px 12px;
+}
+.toto11 a{
+    display: nne;
+    position: absolute;
+}
